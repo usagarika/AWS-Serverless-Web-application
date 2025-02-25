@@ -1,4 +1,4 @@
-# AWS Web Application Using Amplify, Lambda, DynamoDB, API and IAM
+# AWS Web Application Using Amplify, Lambda, DynamoDB, API Gateway and IAM
 
 ## Project Overview
 This project is a serverless web application built using AWS services including Amplify, Lambda, DynamoDB, and API Gateway. The application follows a structured workflow where the frontend is deployed using Amplify, backend logic is handled by Lambda, data is stored in DynamoDB, and API Gateway is used to connect the frontend with backend services. AWS IAM (Identity and Access Management) is used to manage permissions and security across services.
